@@ -1,3 +1,6 @@
 [submodule "Warbe-Frontend"]
 	path = Warbe-Frontend
 	url = https://github.com/bePratham/Warble-Frontend.git
+[submodule "Warble-Backend"]
+	path = Warble-Backend
+	url = https://github.com/bePratham/Warble-Backend.git
